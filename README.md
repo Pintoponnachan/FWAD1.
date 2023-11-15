@@ -56,6 +56,10 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+![image](https://github.com/Pintoponnachan/FWAD1./assets/131936892/0dc6c0be-4e92-4c97-ab9e-eae488f16079)
+![image](https://github.com/Pintoponnachan/FWAD1./assets/131936892/c43f0939-5747-4fe0-9da3-2584bae69a8c)
+
+
 
 
 ## RESULT:
